@@ -171,10 +171,17 @@ input, select, textarea {
 		}
 
 
-.logoheader {
-					padding: 5em 1.25em 1.25em 1.25em;
-
+#logo-container img {
+   width: 80%;
+   height: auto;
 }
+
+/* COUNTER */
+
+#counterclass {
+	
+}
+
 
 /* BG */
 
