@@ -51,6 +51,10 @@ table {
 	border-spacing: 0;
 }
 
+#emailline {
+	width: 300px;
+}
+
 body {
 	-webkit-text-size-adjust: none;
 }
