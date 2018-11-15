@@ -36,9 +36,9 @@
 
 					// Images (in the format of 'url': 'alignment').
 						images: {
-							'https://media.giphy.com/media/1k2oBakoXTNlWpZYCc/giphy.gif': 'center',
-							'https://media.giphy.com/media/3ohc0Zs6561GhuSUkU/giphy.gif': 'center',
-							'https://media.giphy.com/media/3oxHQyle3hejk0si1q/giphy.gif': 'center'
+							'https://media.giphy.com/media/xUOxeZR9gmFzbH8FRS/giphy.gif': 'center',
+							'https://media.giphy.com/media/3oKIPxGt9JNCsZTRPW/giphy.gif': 'center',
+							'https://media.giphy.com/media/3oKIPtv7vXqWkvf06k/giphy.gif': 'center'
 						},
 
 					// Delay.
