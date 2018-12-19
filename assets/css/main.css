@@ -1,5 +1,7 @@
 @import url(font-awesome.min.css);
-@import url('https://fonts.googleapis.com/css?family=Barlow+Condensed');
+@import url('https://fonts.googleapis.com/css?family=Oswald');
+
+
 
 /*
 	Eventually by HTML5 UP
@@ -333,7 +335,7 @@ input, select, textarea {
 
 	body, input, select, textarea {
 		color: rgba(255, 255, 255, 0.75);
-		font-family: "Barlow Condensed", sans-serif;
+		font-family: 'Oswald', sans-serif;
 		font-size: 16pt;
 		font-weight: 400;
 		letter-spacing: -0.01em;
